@@ -2,21 +2,9 @@
 
 I love learning and exploring new things: GNOME development, web design, font creation, shell scripting, and more. Always growing and experimenting!  
 
----
-
-## 🔭 Current Focus
-- **Text Viewer** (GTK & libadwaita)  
-- Web development & design  
-- Font creation & shell scripting  
-
-## 🌱 Always Learning
-Python, GNOME dev, UI/UX, automation  
-
 ## 📫 Connect
-- [Email](mailto:nigel.nkomo@proton.me)  
+- [nigel.nkomo@proton.me](mailto:nigel.nkomo@proton.me)  
 - +263 77 535 8610  
-
----
 
 ## 🛠️ Skills
 ![GTK](https://img.shields.io/badge/GTK-4.0-355C7D?logo=gtk) 
